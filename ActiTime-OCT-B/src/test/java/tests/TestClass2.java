@@ -13,22 +13,7 @@ import org.testng.annotations.Test;
 
 public class TestClass2 {
 	
-	@BeforeTest
-	@Parameters("testData")
-	public void beforeTest(String data) {
-		System.out.println(data);
-		System.out.println("before test TestClass2");
-	}
-
-	@BeforeClass
-	public void beforeClass() {
-		System.out.println("before class TestClass2");
-	}
 	
-	@BeforeMethod
-	public void beforeMethod() {
-		System.out.println("before method TestClass2 ");
-	}
 	
 	@Test
 	public void testE()  {    
