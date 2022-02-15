@@ -14,12 +14,7 @@ import org.testng.annotations.Test;
 public class TestClass2 {
 	
 	
-	
-	@Test
-	public void testE()  {    
-		System.out.println("test E TestClass2 ");		
-	}
-	
+
 	@Test
 	public void testF() {
 		System.out.println("test F TestClass2 ");	
