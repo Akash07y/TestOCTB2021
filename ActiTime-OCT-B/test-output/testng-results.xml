@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="245" started-at="2022-02-10T20:56:25 IST" finished-at="2022-02-10T20:56:25 IST">
+    <groups>
+    </groups>
+    <test name="FirefoxTest" duration-ms="245" started-at="2022-02-10T20:56:25 IST" finished-at="2022-02-10T20:56:25 IST">
+      <class name="tests.TestClass2">
+        <test-method status="PASS" signature="beforeTest(java.lang.String)[pri:0, instance:tests.TestClass2@614ddd49]" name="beforeTest" is-config="true" duration-ms="46" started-at="2022-02-10T20:56:25 IST" finished-at="2022-02-10T20:56:25 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Velocity]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:tests.TestClass2@614ddd49]" name="beforeClass" is-config="true" duration-ms="0" started-at="2022-02-10T20:56:25 IST" finished-at="2022-02-10T20:56:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:tests.TestClass2@614ddd49]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2022-02-10T20:56:25 IST" finished-at="2022-02-10T20:56:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testE()[pri:0, instance:tests.TestClass2@614ddd49]" name="testE" duration-ms="17" started-at="2022-02-10T20:56:25 IST" finished-at="2022-02-10T20:56:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testE -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:tests.TestClass2@614ddd49]" name="afterMethod" is-config="true" duration-ms="1" started-at="2022-02-10T20:56:25 IST" finished-at="2022-02-10T20:56:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:tests.TestClass2@614ddd49]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2022-02-10T20:56:25 IST" finished-at="2022-02-10T20:56:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testF()[pri:0, instance:tests.TestClass2@614ddd49]" name="testF" duration-ms="5" started-at="2022-02-10T20:56:25 IST" finished-at="2022-02-10T20:56:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testF -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:tests.TestClass2@614ddd49]" name="afterMethod" is-config="true" duration-ms="2" started-at="2022-02-10T20:56:25 IST" finished-at="2022-02-10T20:56:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:tests.TestClass2@614ddd49]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2022-02-10T20:56:25 IST" finished-at="2022-02-10T20:56:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testH()[pri:0, instance:tests.TestClass2@614ddd49]" name="testH" duration-ms="4" started-at="2022-02-10T20:56:25 IST" finished-at="2022-02-10T20:56:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testH -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:tests.TestClass2@614ddd49]" name="afterMethod" is-config="true" duration-ms="3" started-at="2022-02-10T20:56:25 IST" finished-at="2022-02-10T20:56:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:tests.TestClass2@614ddd49]" name="afterClass" is-config="true" duration-ms="0" started-at="2022-02-10T20:56:25 IST" finished-at="2022-02-10T20:56:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:tests.TestClass2@614ddd49]" name="afterTest" is-config="true" duration-ms="1" started-at="2022-02-10T20:56:25 IST" finished-at="2022-02-10T20:56:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- tests.TestClass2 -->
+    </test> <!-- FirefoxTest -->
+  </suite> <!-- Suite -->
+</testng-results>
