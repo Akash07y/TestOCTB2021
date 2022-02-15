@@ -19,24 +19,6 @@ import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
 public class TestClass1 <T,K>{
-	
-	T a ;
-	K b;
-	
-	K test() {
-		System.out.println(a);
-		return b;
-	}
-	
-	public static void main(String[] args) {
-		
-		TestClass1<String,Integer> t = new TestClass1<String,Integer>();
-		
-		t.a = "Velocity";
-		t.b = 758;
-		int d = t.test();
-		
-		System.out.println(d);
 
 		
 
